@@ -1,7 +1,7 @@
 # 🐶🎨 DogeDesigner Media Dump
 
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll.jpg" width="200" alt="Professional Doge with palette">
+  <img src="https://imgs.search.brave.com/8rSD04-qecxb7CZbScYNopMZ4r0rzuGTHzYmrqIHkG4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvZG9n/ZWNvaW4tY3J5cHRv/Y3VycmVuY3ktdG9r/ZW4tYmh4NXczOWpp/cTF3a2d1ci5qcGc" width="200" alt="Professional Doge with palette">
 </p>
 
 <p align="center">
